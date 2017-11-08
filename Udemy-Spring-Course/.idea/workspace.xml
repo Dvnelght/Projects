@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaae8f35-e713-4c23-b7af-286ce86865e9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/BaseballCoach.class" afterPath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/BaseballCoach.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/Coach.class" afterPath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/Coach.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/HelloSpringApp.class" afterPath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/HelloSpringApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/SwimCoach.class" afterPath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/SwimCoach.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/TrackCoach.class" afterPath="$PROJECT_DIR$/out/production/spring/udemy/spring/tutorial1/TrackCoach.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/out/production/spring/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.iml" afterPath="$PROJECT_DIR$/spring.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java" afterPath="$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/udemy/spring/tutorial1/Coach.java" afterPath="$PROJECT_DIR$/src/udemy/spring/tutorial1/Coach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/udemy/spring/tutorial1/HelloSpringApp.java" afterPath="$PROJECT_DIR$/src/udemy/spring/tutorial1/HelloSpringApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java" afterPath="$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java" afterPath="$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java" />
     </list>
@@ -30,14 +22,24 @@
       <file leaf-file-name="BaseballCoach.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="325">
+              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
               <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice3-applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice3-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,81 +47,33 @@
       <file leaf-file-name="SwimCoach.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrackCoach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetterDemoApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SetterDemoApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CricketCoach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/CricketCoach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-                <element signature="e#1041#1042#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloSpringApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/HelloSpringApp.java">
+      <file leaf-file-name="Practice3App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/Practice3App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="357">
+              <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanScopeDemoApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BeanScopeDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,14 +103,22 @@
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/FortuneService.java" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/HappyFortuneService.java" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/Coach.java" />
-        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/HelloSpringApp.java" />
-        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java" />
-        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/MyApp.java" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/CricketCoach.java" />
-        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/SetterDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/sport.properties" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/BeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/beanScope-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java" />
+        <option value="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/BeanLifeCycleDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/RandomFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/Practice3App.java" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java" />
+        <option value="$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java" />
+        <option value="$PROJECT_DIR$/src/practice3-applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -188,9 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,22 +157,14 @@
               <item name="Spring-demo-one" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy-Spring-Course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Spring-demo-one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy-Spring-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-demo-one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy-Spring-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,11 +178,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Aeroblaziken/Desktop/github/Udemy-Spring-Course/src/udemy/spring/tutorial1/BaseballCoach.java" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Aeroblaziken\Desktop\github\spring\src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="udemy.spring.tutorial1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="udemy.spring.tutorial1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aeroblaziken\Desktop\github\Udemy-Spring-Course\src" />
+      <recent name="C:\Users\Aeroblaziken\Desktop\github\spring\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,7 +201,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetterDemoApp">
+  <component name="RunManager" selected="Application.Practice3App">
+    <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="udemy.spring.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="udemy.spring.tutorial1.BeanLifeCycleDemoApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring" />
+      <envs />
+    </configuration>
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="udemy.spring.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="udemy.spring.tutorial1.BeanScopeDemoApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring" />
+      <envs />
+    </configuration>
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -266,14 +259,14 @@
       <module name="spring" />
       <envs />
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Practice3App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="udemy.spring.tutorial1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="udemy.spring.tutorial1.MyApp" />
+      <option name="MAIN_CLASS_NAME" value="udemy.spring.tutorial1.Practice3App" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -384,16 +377,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.MyApp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloSpringApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SetterDemoApp" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloSpringApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SetterDemoApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BeanScopeDemoApp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeanLifeCycleDemoApp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Practice3App" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.SetterDemoApp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloSpringApp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyApp" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Practice3App" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BeanScopeDemoApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SetterDemoApp" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloSpringApp" />
       </list>
     </recent_temporary>
   </component>
@@ -410,38 +407,38 @@
       <workItem from="1509151983665" duration="1480000" />
       <workItem from="1509495330829" duration="1691000" />
       <workItem from="1509499801122" duration="3815000" />
-      <workItem from="1509678888435" duration="5579000" />
+      <workItem from="1509678888435" duration="7238000" />
+      <workItem from="1509745982927" duration="3379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12565000" />
+    <option name="totallyTimeSpent" value="17603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="28" width="1400" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.50289017" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -469,10 +466,10 @@
         <state relative-caret-position="306">
           <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#337#338#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -481,12 +478,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -495,12 +487,10 @@
         <state relative-caret-position="102">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -534,10 +524,10 @@
         <state relative-caret-position="85">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#337#338#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,12 +536,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -576,12 +561,10 @@
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -606,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,47 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -676,20 +617,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/CricketCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="578">
           <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#975#976#0" expanded="false" />
+            <element signature="e#1010#1011#0" expanded="false" />
+            <element signature="e#1041#1042#0" expanded="false" />
+            <element signature="e#1068#1069#0" expanded="false" />
+            <element signature="e#1121#1122#0" expanded="false" />
+            <element signature="e#1182#1183#0" expanded="false" />
+            <element signature="e#1235#1236#0" expanded="false" />
+            <element signature="e#1285#1286#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SetterDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/RandomFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sport.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BeanLifeCycleDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,18 +711,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SetterDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BeanScopeDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="87">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/SwimCoach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/BaseballCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/spring/tutorial1/Practice3App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding />
         </state>
       </provider>

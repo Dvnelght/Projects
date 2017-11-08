@@ -22,4 +22,12 @@ public class BaseballCoach implements Coach{
         //use my FortuneService to return a fortune
         return fortuneService.getFortune();
     }
+
+    public void initMethod() {
+        System.out.println("BaseballCoach init is OK");
+    }
+
+    public void destroyMethod() {
+        System.out.println("BaseballCoach destroy is OK");
+    }
 }

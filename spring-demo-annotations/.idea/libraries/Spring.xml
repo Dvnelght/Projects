@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-aop-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-aspects-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-beans-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-context-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-context-support-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-core-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-expression-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-instrument-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-instrument-tomcat-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-jdbc-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-jms-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-messaging-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-orm-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-oxm-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-test-4.3.12.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy-Spring-Course/lib/spring-tx-4.3.12.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

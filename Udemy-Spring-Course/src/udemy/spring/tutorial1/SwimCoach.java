@@ -18,4 +18,12 @@ public class SwimCoach implements Coach {
     public String getDailyFortune() {
         return fortuneService.getFortune();
     }
+
+    public void initMethod() {
+        System.out.println("SwimCoach init is OK");
+    }
+
+    public void destroyMethod() {
+        System.out.println("SwimCoach destroy is OK");
+    }
 }
