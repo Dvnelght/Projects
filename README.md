@@ -1,10 +1,10 @@
 # Projects
 
-This github page contains records on projects or tutorials that I have been working on.
+This github page contains demos of the Spring framework.
+All of the files containing "practice" in their name were written entirely from scratch by me.
 
 Currently, it contains:
 
-    1) my adventures in learning the Spring framework, built using gradle.
-       The Spring project files can be accessed in the Projects/spring folder.
-    2) Sous Chef, a Node.JS and Javascript project.
+    1) spring-demo-xml, spring demo apps configured using xml files.
+    2) spring-demo-annotations, spring demo apps configured using annotations or java code
 
